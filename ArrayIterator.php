@@ -5,7 +5,7 @@
  * @author Andrew Fisher
  */
 
-class Application_ArrayIterator extends RecursiveArrayIterator
+class AndFisher_ArrayIterator extends RecursiveArrayIterator
 {
 
 	public $recyclable = null;
